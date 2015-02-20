@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>F717C665-70CF-42EA-885F-594F68A4DE7B</ifid>
+            <format>zcode</format>
+        </identification>
+        <bibliographic>
+            <title>A Day at Home</title>
+            <author>Calamitous</author>
+            <headline>An Interactive Fiction</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2015</firstpublished>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2015-01-01</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>6L38</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>6L38</generatorversion>
+            <originated>2015-01-01</originated>
+        </colophon>
+        <zcode>
+            <serial>150101</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 6L38</compiler>
+        </zcode>
+    </story>
+</ifindex>
